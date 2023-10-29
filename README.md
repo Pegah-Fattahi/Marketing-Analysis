@@ -5,11 +5,14 @@ This project revolves around an in-depth analysis of marketing campaigns conduct
 
 # Technologies Utilized
 BigQuery: For extracting and querying the raw dataset.
+
 Tableau: Tools considered for data visualization purposes.
 
 # Functionalities
 Weekday Duration Analysis: Assessing user engagement across different weekdays.
+
 Campaign-based Analysis: Comparing and contrasting user behaviors across different marketing campaigns.
+
 Session Modeling: Devising logic to model user sessions in the absence of session identifiers.
 
 
